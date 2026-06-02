@@ -301,32 +301,6 @@ outputs/feature_importance.png
 
 ---
 
-# 🚀 How to Run
-
-## 1. Install Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
-## 2. Run Python Script
-
-```bash
-python task3_feature_engineering.py
-```
-
-## 3. View Results
-
-Generated files:
-
-```text
-outputs/
-│
-├── feature_importance.png
-```
-
----
-
 # 📚 Dataset Citation
 
 Smith, J. W., Everhart, J. E., Dickson, W. C., Knowler, W. C., & Johannes, R. S. (1988). PIMA Indians Diabetes Dataset. National Institute of Diabetes and Digestive and Kidney Diseases.
